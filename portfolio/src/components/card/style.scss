@@ -1,0 +1,15 @@
+.card {
+    width: 400px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    vertical-align: center;
+    align-items: center;
+    margin-top: 20px;  
+    box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.5);
+    border-radius: 30px;
+}
+.picme {
+    width: 200px;
+    height: 200px;
+}
